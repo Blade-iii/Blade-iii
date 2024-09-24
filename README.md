@@ -8,7 +8,7 @@ Here are some ideas to get you started:
   
 - ✨ Languages i’m fimilar with:  Python, SQL, HTML, CSS , Java
 - 🔭 I’m currently working on  Unfinished Projects 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, Python Flask. Docker
 - 🤔 I’m looking for help with Git 
 - 😄 Pronouns: He/Him
 
