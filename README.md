@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Languages i’m fimilar with: Python, SQL, HTML, CSS , Java<br>🔭 I’m currently working on Unfinished Projects<br>🌱 I’m currently learning C#, Python Flask. Docker<br>🤔 I’m looking for help with Git<br>😄 Pronouns: He/Him
+✨ Languages i’m fimilar with: Python, SQL, HTML, CSS , Java<br>🔭 I’m currently working on Unfinished Projects<br>🌱 I’m currently learning C#, Python Flask. Docker<br>🤔 I’m looking for help with Git<br>😄 Pronouns: He/Him<br>🎬 I love the Blade movies
 
 
 # 💻 Tech Stack:
